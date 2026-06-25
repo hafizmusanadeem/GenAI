@@ -1,2 +1,2 @@
 # LangChain
-This repo Includes my Learning in langchain
+This repo Includes my Learnings in langchain
